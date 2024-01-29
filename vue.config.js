@@ -4,4 +4,5 @@ module.exports = defineConfig({
   transpileDependencies: true,
   lintOnSave: 'default',
   productionSourceMap: false,
+  publicPath: 'sumitkumar14.github.io',
 });
